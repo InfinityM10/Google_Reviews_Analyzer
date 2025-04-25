@@ -26,7 +26,7 @@ Google Reviews Analyzer is a Streamlit application that helps businesses extract
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/google-reviews-analyzer.git
+   git clone https://github.com/InfinityM10/Google_Reviews_Analyzer.git
    cd google-reviews-analyzer
    ```
 

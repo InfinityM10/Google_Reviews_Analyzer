@@ -86,9 +86,6 @@ If Ollama is not available, the application will fall back to basic NLP techniqu
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-[MIT License](LICENSE)
 
 ## Acknowledgements
 
